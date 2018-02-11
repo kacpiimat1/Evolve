@@ -60,7 +60,7 @@ public class Evolve {
         );
         
         getStarted.addActionListener((e) -> {
-            Display.getInstance().execute("https://www.codenameone.com/developers.html");
+            Display.getInstance().execute("facebook.com");
         });
         
         new UITimer(() -> {
